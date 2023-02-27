@@ -143,7 +143,7 @@ export const testimonials = [
     {
         id: 4,
         name: "Grace Lavoe",
-        quote: "Cupiditate deleniti sint consequuntur molestias repellat ad quo tenetur vitae rem, labore quisquam? Atque, assumenda rerum odit harum quaerat hic praesentium quisquam quae, enim iste ipsam id repellat.",
+        quote: "Cupiditate deleniti sint consequuntur molestias repellat ad quo tenetur vitae rem, labore quisquam? Atque, assumenda rerum odit harum quaerat hic praesentium quisquam quae, enim iste ipsam id repellat consequuntur.",
         job: "Talking Parrot",
         avatar: require("./images/avatar4.jpg")
     },
