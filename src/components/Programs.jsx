@@ -10,7 +10,10 @@ const Programs = () => {
     <section className="programs">
       <div className="container programs__container">
         <SectionHead icon={<FaCrown />} title="Programs" />
-        
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi
+          provident ab enim pariatur quas?
+        </p>
         <div className="programs__wrapper">
           {programs.map(({ id, icon, title, info, path }) => {
             return (

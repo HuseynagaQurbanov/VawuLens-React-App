@@ -43,16 +43,12 @@
     border-radius: 50%;
     position: absolute;
     transition: var(--transition);
+    filter: blur(15px);
 }
 
 .main__header-image{
     position: relative;
 }
-
-.main__header-right:hover .main__header-circle{
-    filter: blur(15px);
-}
-
 
 
 
@@ -82,6 +78,10 @@
     color: var(--color-gray-600);
 }
 
+.programs__container > p {
+    margin: 1.5rem 0.5rem; 
+}
+
 
 
 
@@ -104,7 +104,7 @@
 }
 
 .values__right > p {
-    margin: 1.5rem 0.5rem;
+    margin: 1.5rem 0.5rem; 
 }
 
 .values__wrapper {
